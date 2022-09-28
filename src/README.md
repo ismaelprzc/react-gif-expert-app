@@ -1,3 +1,3 @@
 # GifExpertApp 
 
-Este es mi repositorio de GifExpertApp realizado en React JS.
+Este es mi repositorio de GifExpertApp realizado en React.
